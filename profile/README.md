@@ -1,5 +1,8 @@
 <h1 align="center">Tentang WildExplorer's Companion (WE’sC)</h1>
 WildExplorer's Companion (WE’sC) adalah sebuah aplikasi yang dirancang untuk membantu para penjelajah dan pecinta alam dalam pengalaman mereka di alam liar. Aplikasi ini menyediakan berbagai fitur yang berguna untuk mereka yang suka menjelajahi alam.
+<details>
+<summary align="center">Click here to view more about our team</summary>
+
 
 ## Our Teams
 ### Machine Learning Team
